@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "statusCode": 200,
+    "allPictures": [
+        {
+            "id": 1,
+            "title": "picture1",
+            "imageUrl": "picture1.png"
+        },
+        {
+            "id": 2,
+            "title": "picture2",
+            "imageUrl": "picture2.png"
+        },
+        {
+            "id": 3,
+            "title": "picture3",
+            "imageUrl": "picture3.png"
+        },
+        {
+            "id": 4,
+            "title": "picture4",
+            "imageUrl": "picture4.png"
+        },
+        {
+            "id": 5,
+            "title": "picture5",
+            "imageUrl": "picture5.png"
+        },
+        {
+            "id": 6,
+            "title": "picture6",
+            "imageUrl": "picture6.png"
+        },
+        {
+            "id": 7,
+            "title": "picture7",
+            "imageUrl": "picture7.png"
+        }
+    ]
+}
